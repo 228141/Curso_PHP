@@ -8,7 +8,11 @@
 <body>
 
     <h1>Olá, Mundo!</h1>
-    
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto voluptatem ab libero illum natus corrupti delectus dolores omnis! Cupiditate porro consequatur sed aspernatur, neque nemo totam ut reprehenderit beatae assumenda.</p>
+
+    <?php 
+        phpinfo();
+
+    ?>
+
 </body>
 </html>
